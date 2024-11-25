@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.mydeeplinks",
+    "package_name": "com.jas.digitalkyats",
     "sha256_cert_fingerprints":
-    ["77:E7:1E:8C:F7:05:23:17:D1:ED:C0:E0:16:A8:39:50:4C:76:52:5B:27:BD:FD:95:67:1E:14:5B:B5:8C:6D:90"]
+    ["79:47:7C:17:9E:3F:4A:BC:8E:81:44:0B:3A:E8:D8:38:E2:4B:10:84:B7:66:BF:B8:AF:72:47:60:97:37:81:11"]
   }
 }]
